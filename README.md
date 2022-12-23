@@ -1,4 +1,3 @@
-# redhat_project
 1) What is about?
 • Here,I have made one project (Redhat_project) using Terraform(AWS_Cloud)
 • This project that can be use deployment the resources using terraform. 
